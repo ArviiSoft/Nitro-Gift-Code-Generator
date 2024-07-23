@@ -1,0 +1,21 @@
+{
+  "name": "arviis-nitro-code-generator",
+  "version": "9.9.9",
+  "description": "ArviS - Nitro Code Generator",
+  "main": "arvis.js",
+  "scripts": {
+    "arviis:dev": "nodemon arvis.js",
+    "test": "node arvis."
+  },
+  "author": "arviis.",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "eris": "^0.17.2",
+    "path": "^0.12.7",
+    "random": "^3.0.6",
+    "randomstring": "^1.2.1",
+    "react": "^17.0.1",
+    "string": "^3.3.3"
+  }
+}
