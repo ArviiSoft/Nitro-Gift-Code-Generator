@@ -4,7 +4,7 @@
 #
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
-https://www.itemsatis.com/discord/nitro-kod-generator-1790432.html
+https://www.itempazar.com/discord-uye-nitro-sunucu/nitro-gift-kod-generator-116361
 # 
 #
 
